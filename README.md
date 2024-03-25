@@ -7,3 +7,9 @@ Such an application may include:
 1. robotic arm
 2. electric cam
 3. physical cam-follower
+with key features as:
+1. suitable for both translative motion (displacement VS time or angle) and swing motion (angle VS time).
+2. able to excert control of displacement, velocity, acceleration (motion and it's derivatives) over any range of the motion.
+
+A large amount of the owner's personal time is devoted to this tool, aiming to surpass any other tools in the field in terms of simplicity, interactivity and flexibility. 
+However it is still at primal stage, more features are yet to be added or refined. Any comments, suggestions and critiques are greatly appreciated.
