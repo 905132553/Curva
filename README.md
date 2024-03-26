@@ -4,7 +4,7 @@ Curva is a pure math tool for curve building and analysis.
 
 It is not intended to be an engineering software. However, it may serve as the motion designer for an engineering application which requires delicate motion control of a moving object, and as the basis to perform further analysis of the dynamics of the system. 
   
-  such an application may include:
+  Such an application may include:
 - robotic arm
 - electric cam
 - physical cam-follower
