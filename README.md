@@ -1,7 +1,7 @@
 # Curva
 
 Curva is a pure math framework for curve building and analysis, which is still under development.
-----
+
 It is not intended to be an engineering software... However, it may serve as the mathematical framework for engineering applications which require delicate design of the motion curve of a moving object. Further analysis of the dynamics of the system can be performed based on the ouput of this framework. With iterations, a motion curve that best suit the application can be achieved.
   
   Such an application may include:
